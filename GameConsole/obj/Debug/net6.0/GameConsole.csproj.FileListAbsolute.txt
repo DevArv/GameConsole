@@ -1,0 +1,15 @@
+D:\NetApp\GameConsole\bin\Debug\net6.0\GameConsole.exe
+D:\NetApp\GameConsole\bin\Debug\net6.0\GameConsole.deps.json
+D:\NetApp\GameConsole\bin\Debug\net6.0\GameConsole.runtimeconfig.json
+D:\NetApp\GameConsole\bin\Debug\net6.0\GameConsole.dll
+D:\NetApp\GameConsole\bin\Debug\net6.0\GameConsole.pdb
+D:\NetApp\GameConsole\obj\Debug\net6.0\GameConsole.csproj.AssemblyReference.cache
+D:\NetApp\GameConsole\obj\Debug\net6.0\GameConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\NetApp\GameConsole\obj\Debug\net6.0\GameConsole.AssemblyInfoInputs.cache
+D:\NetApp\GameConsole\obj\Debug\net6.0\GameConsole.AssemblyInfo.cs
+D:\NetApp\GameConsole\obj\Debug\net6.0\GameConsole.csproj.CoreCompileInputs.cache
+D:\NetApp\GameConsole\obj\Debug\net6.0\GameConsole.dll
+D:\NetApp\GameConsole\obj\Debug\net6.0\refint\GameConsole.dll
+D:\NetApp\GameConsole\obj\Debug\net6.0\GameConsole.pdb
+D:\NetApp\GameConsole\obj\Debug\net6.0\GameConsole.genruntimeconfig.cache
+D:\NetApp\GameConsole\obj\Debug\net6.0\ref\GameConsole.dll
